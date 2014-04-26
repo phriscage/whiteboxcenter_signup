@@ -22,7 +22,7 @@ COUCHBASE_PORT = '8091'
 COUCHBASE_BUCKET = 'whiteboxcenter_signup'
 
 #logger = logging.getLogger('whitebox')
-logger = logging.getLogger(__name__)
+#logger = logging.getLogger(__name__)
 
 def connect_db():
     """ connect to couchbase """
