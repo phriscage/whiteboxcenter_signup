@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import sys
+import logging
 
 sys.path.append('/usr/local/whiteboxcenter_signup/lib')
 
